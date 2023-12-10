@@ -1,2 +1,3 @@
-# hex-color-generator
-🌈 Hex color generator
+# 🌈 Hex color generator - Web
+
+A web to generate random hex color!
